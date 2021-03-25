@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     // Generic Constraint: T referans tipinde veya IEntity veya IEntity implemente eden bir nesne olabilir 
     // where T : class, IEntity => buradaki class sınıfı değil referans tipi ifade eder
