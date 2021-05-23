@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using FluentValidation;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Http;
+using static Core.Extensions.ErrorDetails;
 
 namespace Core.Extensions
 {
